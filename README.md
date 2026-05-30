@@ -36,5 +36,5 @@ The goal of these projects is to transform raw engineering and operational data 
 ---
 
 ## 📬 Contact & Connect
-* **LinkedIn:** [https://www.linkedin.com/in/hussein-abdallah-tolba-b5676318a?utm_source=share_via&utm_content=profile&utm_medium=member_android]
-* **Email:**[hussaintolba2@gmail.com]
+* **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/hussein-abdallah-tolba-b5676318a)
+* **Email:** [hussaintolba2@gmail.com](mailto:hussaintolba2@gmail.com)
