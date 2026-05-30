@@ -1,40 +1,55 @@
-# Data Analytics Portfolio
+# 📊 Welcome to My Dynamic Engineering & Data Portfolio
 
-Welcome to my data analytics portfolio. This repository showcases professional data analysis projects, engineering logs management, and automated workflows specifically tailored for **Technical Office operations, Document Control (DC), Construction, HSE, QA/QC, and Aconex** management.
+## 👤 Profile
 
-The goal of these projects is to transform raw engineering and operational data into actionable insights, optimize tracking systems, and improve project delivery efficiency.
-
----
-
-## 🛠️ Technologies Used
-* **Data Visualization:** Power BI, Microsoft Excel (Advanced)
-* **Process Automation:** Power Automate
-* **Data Management:** SQL, Excel Power Query
-* **Domain Tools:** Aconex, Document Control Systems, Engineering Logs
+* **Name**: Hussein Abdallah
+* **Role**: Data Analyst & Technical Office / Document Control Specialist
 
 ---
 
-## 📁 Portfolio Projects
+## 🛠️ Automatically Extracted Technical Skills
 
-### 1. Technical Office & Document Control Integrated Dashboard
-* **Description:** A comprehensive analytics solution bridging Document Control data with Technical Office requirements to track Shop Drawings, Material Submittals, and RFIs.
-* **Key Features:** Automated tracking for engineering deliverables status, consultant approval cycles (Approved/Approved as Noted/Revised & Resubmit), and engineering log bottlenecks.
-* **Impact:** Improved submittal tracking efficiency, reduced response delays by 25%, and ensured seamless data alignment between site engineers and the technical office.
+This section is automatically updated whenever a new CV is uploaded using Python & GitHub Actions!
 
-### 2. Aconex Workflow & Transmittal Analytics
-* **Description:** A specialized dashboard designed to audit and monitor incoming/outgoing transmittals and workflow distribution via Aconex.
-* **Key Features:** Monitors overdue actions, outstanding document workflows, and subcontractor submission timelines.
-
-### 3. HSE (Health, Safety, and Environment) Performance Report
-* **Description:** An interactive safety dashboard analyzing incident rates, near-misses, and safety induction frequencies on site.
-* **Key Features:** Heatmaps for high-risk zones, monthly trend analysis, and safety milestone tracking.
-
-### 4. QA/QC Inspection & NCR Analytics
-* **Description:** Analysis of Non-Conformance Reports (NCRs) to identify structural or systemic quality issues in materials and execution.
-* **Key Features:** Root-cause analysis breakdowns, closed vs. open NCR ratios, and subcontractor performance evaluation.
+* **Data Analysis & Reporting**: KPI Tracking, Performance Monitoring, Data Cleaning & Validation
+* **Power BI Dashboard Development**: Interactive Dashboards, DAX, Power Query
+* **Advanced Excel**: VLOOKUP, Pivot Tables, Data Modeling, Automation
+* **SQL**: Basic Queries, Data Extraction, Query Optimization
+* **Domain Tools**: Aconex, SharePoint, Engineering Logs, EDMS, QA/QC Documentation
 
 ---
 
-## 📬 Contact & Connect
-* **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/hussein-abdallah-tolba-b5676318a)
-* **Email:** [hussaintolba2@gmail.com](mailto:hussaintolba2@gmail.com)
+## 💼 Professional Experience
+
+* **Document Controller** at *EDECS* (Dec 2021 - Present)
+  * Managed and controlled project documentation in compliance with QA/QC standards.
+  * Maintained accurate document version control and workflow tracking.
+  * Prepared Excel trackers and reports to monitor submissions and approvals.
+* **Data Analyst** at *Telecom Egypt* (Mar 2020 - Dec 2021)
+  * Analyzed telecom operational data to support business performance monitoring.
+  * Built Power BI dashboards and reports to support decision-making.
+  * Enhanced operational reporting using Excel tracking systems.
+* **Technical Specialist** at *Vodafone Egypt* (Mar 2018 - Mar 2020)
+  * Provided technical and customer support while maintaining KPI targets.
+  * Documented technical cases accurately to support reporting processes.
+* **Data Entry Specialist** at *Sumitomo Egypt* (Jan 2017 - Sep 2017)
+  * Entered and maintained operational and production data accurately.
+  * Ensured data consistency and compliance with company standards.
+* **Accountant** at *Wadi El Nile Cement* (Jan 2016 - Sep 2017)
+  * Managed financial transactions and accounting records.
+  * Prepared financial reports and supported accounting operations.
+
+---
+
+## 🎓 Education & Certifications
+
+* **Bachelor's Degree in Accounting** - Beni Suef University (2023)
+* **Google Data Analytics** Professional Certificate
+* **Power BI Essential Training**
+
+---
+
+## 📬 Connect With Me
+
+* **LinkedIn**: [Hussein Abdallah](https://linkedin.com/in/hussein-abdallah-tolba-b5676318a)
+* **Email**: [hussaintolba2@gmail.com](mailto:hussaintolba2@gmail.com)
